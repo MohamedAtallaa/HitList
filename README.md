@@ -1,2 +1,2 @@
 # HitList
-Core Data framework practice
+Core Data by Tutorials book.
